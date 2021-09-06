@@ -1,5 +1,5 @@
 # ETG-Inventory-Management-System-Project-
-This repository based on inventory management system which consists of jason files done during Skill India Python/AI internship
+This repository based on inventory management system which consists of json files done during Skill India Python/AI internship
 
 I have made an inventory management system which works on NOSQL based database.
 In this project Customer can purchase products and generate bills.
@@ -25,7 +25,7 @@ Things that can be done in my project
     5.View Transaction History
     
 There are more than 30 products in the inventory.
-I have created two jason files in this project:
+I have created two json files in this project:
    1.record.json file is used to see the product details and
    2.sales.json file is used to see transaction history.
 
